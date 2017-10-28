@@ -22,6 +22,6 @@
 1. Іванов
 2. Петров
 
-[Мій репозиторій] (http://AlexTym97.github.io "Helllo to you"
+[Мій репозиторій] (http://AlexTym97.github.io "Helllo to you")
 ![Cat] ()
 email dispatch
